@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
